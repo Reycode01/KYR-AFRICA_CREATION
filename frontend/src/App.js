@@ -8,7 +8,7 @@ import Chatbot from './components/Chatbot';
 import Timeline from './components/Timeline';
 import QnA from './components/QnA';
 import Home from './pages/Home';
-import About from './pages/About'; // Ensure this path is correct
+import About from './pages/About'; 
 import Contact from './pages/Contact';
 
 function App() {
